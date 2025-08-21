@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im Maddox 👋
 
 - 🔭 I’m currently working on GitHub
 - 🌱 I’m currently learning intoduction to ai
