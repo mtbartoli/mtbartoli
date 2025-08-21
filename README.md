@@ -5,7 +5,7 @@
 - 💬 Ask me about: music
 - 📫 How to reach me: mtbartoli@cps.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love wrestling and hockey
 <!--
 **mtbartoli/mtbartoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
